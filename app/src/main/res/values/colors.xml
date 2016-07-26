@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="bt1">#40afff</color>
+    <color name="bt2">#aeaaab</color>
+    <color name="bt3">#c0e766</color>
+    <color name="bt4">#ff986b</color>
+    <color name="bt5">#ffcf40</color>
+    <color name="bt6">#df40ff</color>
+    <color name="bt7">#509f75</color>
+    <color name="bt8">#3e8646</color>
+    <color name="bt9">#1bfff0</color>
+    <color name="edittexthobbies">#bfbeb4</color>
+    <color name="tvskillEnglish">#ffb702</color>
+    <color name="tvskillJapanese">#f5f518</color>
+    <color name="tvskillJava">#02f7ce</color>
+    <color name="tvskillAndroid">#02ff38</color>
+    <color name="btnBack">#fefefe</color>
+</resources>
